@@ -1,10 +1,6 @@
-## SCROLL SOURCE WINDOW TO HERE FOR STANDARD 80 COLUMN WIDTH >->->->->->->->->->
-################################################################################
+
 ## run_analysis.R
-##
-## Peer Assessment
 ## Coursera: Getting and Cleaning Data Project 
-## April 2014
 
 
 ## Required packages
